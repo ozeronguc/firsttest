@@ -1,6 +1,9 @@
 #print("Baaşarı ile giriş yaptınız! Hoş geldiniz", "Özer " + "Öngüç!")
 
 
+#test satırı ekledim. 
+
+
 #myName = "  Sertaç      "
 #print(myName.strip())
 
