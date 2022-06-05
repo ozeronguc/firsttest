@@ -1,13 +1,3 @@
-#print("Baaşarı ile giriş yaptınız! Hoş geldiniz", "Özer " + "Öngüç!")
-
-
-#test satırı ekledim. 
-
-
-#myName = "  Sertaç      "
-#print(myName.strip())
-
-
 username = input("İsminizi girin ")
 surname = input("Soy isminizi girin ")
 password = input("Şifrenizi oluşturun ")
